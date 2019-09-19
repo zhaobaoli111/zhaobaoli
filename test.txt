@@ -1,2 +1,6 @@
 ceshi
+<<<<<<< HEAD
 dazhiz
+=======
+baoli
+>>>>>>> 6530a9cc3884c2858ee9265b807e5f96d9fd27a5
